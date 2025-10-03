@@ -23,7 +23,7 @@ This project contains a Power BI dashboard for HR/employee analytics. The dashbo
 3. Load the provided datasets in Power BI.
 4. Refresh the visuals to see complete analytics!
 
-## Preview
+## Preview Dashboard
 ![Dashboard Screenshot 1](https://github.com/Imlak-rja/HR-Analytics-Dashboard/blob/main/Home.png)
 ![Dashboard Screenshot 2](https://github.com/Imlak-rja/HR-Analytics-Dashboard/blob/main/Action.png)
 ![Dashboard Screenshot 3](https://github.com/Imlak-rja/HR-Analytics-Dashboard/blob/main/Detail.png)
